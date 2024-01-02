@@ -28,6 +28,10 @@ PRODUCT_PACKAGES += \
     GoogleCameraENG \
     GoogleCamera_6gb_ram
 
+# Google File Geek
+PRODUCT_PACKAGES += \
+    GoogleFileGeek
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
